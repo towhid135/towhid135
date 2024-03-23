@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=towhid135" alt="towhid135" /></a> </p>
 
-- 🔭 I’m currently working on [SWOP 2.0](shorturl.at/cpVW0)
+- 🔭 I’m currently working at TechnoNext
 
 - 💬 Ask me about **react native**
 
